@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +68,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Git_study
+react study
+>>>>>>> 2e33e18cf160eb075c84237fce6df0fd9f6d0ae7
+=======
+# Git_study
+react study
+>>>>>>> 2ad9befbff76cd5941818735b5dfa916d392c81d
